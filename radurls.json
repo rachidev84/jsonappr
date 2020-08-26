@@ -3,110 +3,110 @@
       {
          "ID":1,
          "RadioName":"Fox News",
-         "RadioURL":"http://streaming-ent.shoutcast.com/foxnews",
+         "RadioURL":"www.streaming-ent.shoutcast.com/foxnews",
          "RadioDesc":"United States - News",
          "RadioShortDesc":null,
          "RadioWebsite":"",
-         "RadioPic":"http://raw.githubusercontent.com/rachidev84/jsonappr/master/flavicon/fox_news.jpg"
+         "RadioPic":"www.raw.githubusercontent.com/rachidev84/jsonappr/master/flavicon/fox_news.jpg"
       },
 	  {
          "ID":2,
          "RadioName":"WNYC - FM",
-         "RadioURL":"http://fm939.wnyc.org/wnycfm-web",
+         "RadioURL":"www.fm939.wnyc.org/wnycfm-web",
          "RadioDesc":"United States - Various",
          "RadioShortDesc":null,
          "RadioWebsite":"",
-         "RadioPic":"http://raw.githubusercontent.com/rachidev84/jsonappr/master/flavicon/wnyc_us.png"
+         "RadioPic":"www.raw.githubusercontent.com/rachidev84/jsonappr/master/flavicon/wnyc_us.png"
       },
 	  {
          "ID":3,
          "RadioName":"BBC World Service",
-         "RadioURL":"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk_backup",
+         "RadioURL":"www.bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk_backup",
          "RadioDesc":"United Kingdom - News",
          "RadioShortDesc":null,
          "RadioWebsite":"",
-         "RadioPic":"http://raw.githubusercontent.com/rachidev84/jsonappr/master/flavicon/bbc_service.png"
+         "RadioPic":"www.raw.githubusercontent.com/rachidev84/jsonappr/master/flavicon/bbc_service.png"
       },
 	  {
          "ID":4,
          "RadioName":"LBC",
-         "RadioURL":"http://icecast.thisisdax.com/LBC973",
+         "RadioURL":"www.icecast.thisisdax.com/LBC973",
          "RadioDesc":"United Kingdom - News",
          "RadioShortDesc":null,
          "RadioWebsite":"",
-         "RadioPic":"http://raw.githubusercontent.com/rachidev84/jsonappr/master/flavicon/lbc_uk.png"
+         "RadioPic":"www.raw.githubusercontent.com/rachidev84/jsonappr/master/flavicon/lbc_uk.png"
       },
       {
          "ID":5,
          "RadioName":"2GB 873 AM Sydney, NSW",
-         "RadioURL":"http://shoutcast.2gb.com/2gb;",
+         "RadioURL":"www.shoutcast.2gb.com/2gb;",
          "RadioDesc":"Australia - News",
          "RadioShortDesc":null,
          "RadioWebsite":"",
-         "RadioPic":"http://raw.githubusercontent.com/rachidev84/jsonappr/master/flavicon/2gb_au.png"
+         "RadioPic":"www.raw.githubusercontent.com/rachidev84/jsonappr/master/flavicon/2gb_au.png"
       },
       {
          "ID":6,
          "RadioName":"3AW 693 AM",
-         "RadioURL":"http://shoutcast.macquariemedia.com.au:8000/3AW-AAC",
+         "RadioURL":"www.shoutcast.macquariemedia.com.au:8000/3AW-AAC",
          "RadioDesc":"Australia - News",
          "RadioShortDesc":null,
          "RadioWebsite":"",
-         "RadioPic":"http://raw.githubusercontent.com/rachidev84/jsonappr/master/flavicon/3aw_news_talk.png"
+         "RadioPic":"www.raw.githubusercontent.com/rachidev84/jsonappr/master/flavicon/3aw_news_talk.png"
       },
       {
          "ID":7,
          "RadioName":"AM America OTR Comedy",
-         "RadioURL":"http://hemnos.cdnstream.com/1666_32",
+         "RadioURL":"www.hemnos.cdnstream.com/1666_32",
          "RadioDesc":"United States - Comedy",
          "RadioShortDesc":null,
          "RadioWebsite":"",
-         "RadioPic":"http://raw.githubusercontent.com/rachidev84/jsonappr/master/flavicon/am_america_old.jpg"
+         "RadioPic":"www.raw.githubusercontent.com/rachidev84/jsonappr/master/flavicon/am_america_old.jpg"
       },
       {
          "ID":8,
          "RadioName":"Comedy 24",
-         "RadioURL":"http://rosetta.shoutca.st:9399/;",
+         "RadioURL":"www.rosetta.shoutca.st:9399/;",
          "RadioDesc":"United States - Comedy",
          "RadioShortDesc":null,
          "RadioWebsite":"",
-         "RadioPic":"http://raw.githubusercontent.com/rachidev84/jsonappr/master/flavicon/comedy_24.jpg"
+         "RadioPic":"www.raw.githubusercontent.com/rachidev84/jsonappr/master/flavicon/comedy_24.jpg"
       },   
       {
          "ID":9,
          "RadioName":"Chicago's Comedy",
-         "RadioURL":"http://14833.live.streamtheworld.com/SAM06AAC077_SC",
+         "RadioURL":"www.14833.live.streamtheworld.com/SAM06AAC077_SC",
          "RadioDesc":"United States - Comedy",
          "RadioShortDesc":null,
          "RadioWebsite":"",
-         "RadioPic":"http://raw.githubusercontent.com/rachidev84/jsonappr/master/flavicon/chicago_comedy.png"
+         "RadioPic":"www.raw.githubusercontent.com/rachidev84/jsonappr/master/flavicon/chicago_comedy.png"
       },
       {
          "ID":10,
          "RadioName":"Britcom one",
-         "RadioURL":"http://streaming02.zfast.co.uk/proxy/britcom1?mp=/stream",
+         "RadioURL":"www.streaming02.zfast.co.uk/proxy/britcom1?mp=/stream",
          "RadioDesc":"United Kingdom - Comedy",
          "RadioShortDesc":null,
          "RadioWebsite":"",
-         "RadioPic":"http://raw.githubusercontent.com/rachidev84/jsonappr/master/flavicon/britcom_one.jpg"
+         "RadioPic":"www.raw.githubusercontent.com/rachidev84/jsonappr/master/flavicon/britcom_one.jpg"
       },
       {
          "ID":11,
          "RadioName":"Britcom two",
-         "RadioURL":"http://streaming02.zfast.co.uk/proxy/britcom2?mp=/stream",
+         "RadioURL":"www.streaming02.zfast.co.uk/proxy/britcom2?mp=/stream",
          "RadioDesc":"United Kingdom - Comedy",
          "RadioShortDesc":null,
          "RadioWebsite":"",
-         "RadioPic":"http://raw.githubusercontent.com/rachidev84/jsonappr/master/flavicon/britcom_two.jpg"
+         "RadioPic":"www.raw.githubusercontent.com/rachidev84/jsonappr/master/flavicon/britcom_two.jpg"
       },
       {
          "ID":12,
          "RadioName":"British comedy",
-         "RadioURL":"http://185.80.221.113:7550/;",
+         "RadioURL":"www.185.80.221.113:7550/;",
          "RadioDesc":"United Kingdom - Comedy",
          "RadioShortDesc":null,
          "RadioWebsite":"",
-         "RadioPic":"http://raw.githubusercontent.com/rachidev84/jsonappr/master/flavicon/british_comedy.png"
+         "RadioPic":"www.raw.githubusercontent.com/rachidev84/jsonappr/master/flavicon/british_comedy.png"
       }
    ],
    "Message":"72",
