@@ -9,7 +9,7 @@
          "RadioWebsite":"",
          "RadioPic":"https://github.com/rachidev84/jsonappr/blob/master/flavicon/fox_news.png"
       },
-	  {
+      {
          "ID":3,
          "RadioName":"WNYC - FM",
          "RadioURL":"http://wnycfm.streamguys.com/wnycfm.aac",
@@ -18,7 +18,7 @@
          "RadioWebsite":"",
          "RadioPic":"https://github.com/rachidev84/jsonappr/blob/master/flavicon/wnyc_us.png"
       },
-	  {
+      {
          "ID":4,
          "RadioName":"BBC World Service",
          "RadioURL":"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk_backup",
@@ -27,7 +27,7 @@
          "RadioWebsite":"",
          "RadioPic":"https://github.com/rachidev84/jsonappr/blob/master/flavicon/bbc_service.png"
       },
-	  {
+      {
          "ID":2,
          "RadioName":"LBC",
          "RadioURL":"https://media-ssl.musicradio.com/LBCUK",
@@ -80,7 +80,7 @@
          "RadioShortDesc":"Comedy",
          "RadioWebsite":"",
          "RadioPic":"https://github.com/rachidev84/jsonappr/blob/master/flavicon/comedy_24.jpg"
-      },   
+      },
       {
          "ID":10,
          "RadioName":"Chicago's Comedy",
