@@ -102,7 +102,7 @@
       {
          "ID":12,
          "RadioName":"British comedy",
-         "RadioURL":"www.185.80.221.113:7550/;",
+         "RadioURL":"185.80.221.113:7550/;",
          "RadioDesc":"United Kingdom - Comedy",
          "RadioShortDesc":null,
          "RadioWebsite":"",
