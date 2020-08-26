@@ -1,0 +1,123 @@
+{
+   "Data":[
+      {
+         "ID":1,
+         "RadioName":"Fox News",
+         "RadioURL":"https://streaming-ent.shoutcast.com/foxnews",
+         "RadioDesc":"United States",
+         "RadioShortDesc":"News",
+         "RadioWebsite":"",
+         "RadioPic":"https://github.com/rachidev84/jsonappr/blob/master/flavicon/fox_news.png"
+      },
+      {
+         "ID":2,
+         "RadioName":"WNYC - FM",
+         "RadioURL":"http://wnycfm.streamguys.com/wnycfm.aac",
+         "RadioDesc":"United States",
+         "RadioShortDesc":"Various",
+         "RadioWebsite":"",
+         "RadioPic":"https://github.com/rachidev84/jsonappr/blob/master/flavicon/wnyc_us.png"
+      },
+      {
+         "ID":3,
+         "RadioName":"BBC World Service",
+         "RadioURL":"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk_backup",
+         "RadioDesc":"United Kingdom",
+         "RadioShortDesc":"News",
+         "RadioWebsite":"",
+         "RadioPic":"https://github.com/rachidev84/jsonappr/blob/master/flavicon/bbc_service.png"
+      },
+      {
+         "ID":4,
+         "RadioName":"LBC",
+         "RadioURL":"https://media-ssl.musicradio.com/LBCUK",
+         "RadioDesc":"United Kingdom",
+         "RadioShortDesc":"News",
+         "RadioWebsite":"",
+         "RadioPic":"https://github.com/rachidev84/jsonappr/blob/master/flavicon/lbc_uk.png"
+      },
+      {
+         "ID":5,
+         "RadioName":"ABC News",
+         "RadioURL":"http://live-radio01.mediahubaustralia.com/PBW/aac/",
+         "RadioDesc":"Australia",
+         "RadioShortDesc":"News",
+         "RadioWebsite":"",
+         "RadioPic":"https://github.com/rachidev84/jsonappr/blob/master/flavicon/abc_news.jpg"
+      },
+      {
+         "ID":6,
+         "RadioName":"2GB 873 AM Sydney, NSW",
+         "RadioURL":"http://shoutcast.2gb.com/2gb;",
+         "RadioDesc":"Australia",
+         "RadioShortDesc":"News",
+         "RadioWebsite":"",
+         "RadioPic":"https://github.com/rachidev84/jsonappr/blob/master/flavicon/2gb_au.png"
+      },
+      {
+         "ID":7,
+         "RadioName":"3AW 693 AM",
+         "RadioURL":"http://shoutcast.macquariemedia.com.au:8000/3AW-AAC",
+         "RadioDesc":"Australia",
+         "RadioShortDesc":"News Talk",
+         "RadioWebsite":"",
+         "RadioPic":"https://github.com/rachidev84/jsonappr/blob/master/flavicon/3aw_news_talk.png"
+      },
+      {
+         "ID":8,
+         "RadioName":"AM America OTR Comedy",
+         "RadioURL":"http://hemnos.cdnstream.com/1666_32",
+         "RadioDesc":"United States",
+         "RadioShortDesc":"Comedy",
+         "RadioWebsite":"",
+         "RadioPic":"https://github.com/rachidev84/jsonappr/blob/master/flavicon/am_america_old.jpg"
+      },
+      {
+         "ID":9,
+         "RadioName":"Comedy 24",
+         "RadioURL":"http://rosetta.shoutca.st:9399/;",
+         "RadioDesc":"United States",
+         "RadioShortDesc":"Comedy",
+         "RadioWebsite":"",
+         "RadioPic":"https://github.com/rachidev84/jsonappr/blob/master/flavicon/comedy_24.jpg"
+      },
+      {
+         "ID":10,
+         "RadioName":"Chicago's Comedy",
+         "RadioURL":"https://14833.live.streamtheworld.com/SAM06AAC077_SC",
+         "RadioDesc":"United States",
+         "RadioShortDesc":"Comedy",
+         "RadioWebsite":"",
+         "RadioPic":"https://github.com/rachidev84/jsonappr/blob/master/flavicon/chicago_comedy.png"
+      },
+      {
+         "ID":11,
+         "RadioName":"Britcom one",
+         "RadioURL":"https://streaming02.zfast.co.uk/proxy/britcom1?mp=%2Fstream",
+         "RadioDesc":"United Kingdom",
+         "RadioShortDesc":"Comedy",
+         "RadioWebsite":"",
+         "RadioPic":"https://github.com/rachidev84/jsonappr/blob/master/flavicon/britcom_one.jpg"
+      },
+      {
+         "ID":12,
+         "RadioName":"Britcom two",
+         "RadioURL":"https://streaming02.zfast.co.uk/proxy/britcom2?mp=%2Fstream",
+         "RadioDesc":"United Kingdom",
+         "RadioShortDesc":"Comedy",
+         "RadioWebsite":"",
+         "RadioPic":"https://github.com/rachidev84/jsonappr/blob/master/flavicon/britcom_two.jpg"
+      },
+      {
+         "ID":13,
+         "RadioName":"British comedy",
+         "RadioURL":"http://185.80.221.113:7550/;",
+         "RadioDesc":"United Kingdom",
+         "RadioShortDesc":"Comedy",
+         "RadioWebsite":"",
+         "RadioPic":"https://github.com/rachidev84/jsonappr/blob/master/flavicon/british_comedy.png"
+      }
+   ],
+   "Message":"72",
+   "Result":1
+}
